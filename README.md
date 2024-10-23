@@ -54,7 +54,7 @@
 <br>
 <div align=center>
 
-  <img width="420" height="165" src="https://streak-stats.demolab.com/?user=kevincxv&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="420" height="165" src="https://streak-stats.demolab.com/?user=gabrielsuarezz&theme=react&border_radius=10" alt="streak stats"/>
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=gabrielsuarezz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
